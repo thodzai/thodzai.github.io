@@ -1,11 +1,11 @@
 # hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
-baseURL: https://thodzai.github.io/
+baseURL: https://thodzai.dev/
 title: ThoDZai
 theme: hugo-book
 
 # Book configuration
-disablePathToLower: true
+disablePathToLower: false
 enableGitInfo: true
 
 # Needed for mermaid/katex shortcodes
