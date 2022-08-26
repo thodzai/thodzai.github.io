@@ -1,6 +1,7 @@
 # hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
-baseURL: https://thodzai.dev/
+#baseURL: https://thodzai.dev/
+baseURL: https://thodzai.github.io/
 title: ThoDZai
 theme: hugo-book
 
