@@ -1,6 +1,6 @@
 ---
 title: About
-weight: 1
+weight: 100
 ---
 
 # About
