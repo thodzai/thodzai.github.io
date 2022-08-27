@@ -1,6 +1,6 @@
 ---
-title: Danh sách án nhỏ
+title: Danh sách nhỏ
 weight: 1
 ---
 
-# Danh sách án nhỏ 
+# Danh sách nhỏ 
