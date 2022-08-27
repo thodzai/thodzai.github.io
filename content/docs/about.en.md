@@ -1,6 +1,6 @@
 ---
-title: About
+title: About & Contact
 weight: 100
 ---
 
-# About
+# About & Contact
