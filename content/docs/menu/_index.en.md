@@ -4,5 +4,3 @@ bookCollapseSection: true
 bookFlatSection: true
 title: Menu
 ---
-
-# Projects   

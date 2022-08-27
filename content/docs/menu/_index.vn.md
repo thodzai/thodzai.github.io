@@ -4,5 +4,3 @@ bookCollapseSection: true
 bookFlatSection: true
 title: Danh sách
 ---
-
-# Dự án  

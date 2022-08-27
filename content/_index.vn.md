@@ -3,6 +3,8 @@ title: Introduction
 type: docs
 ---
 
+![welcome](welcome.png "welcome")
+
 # Chào bạn 👋
 
 ## Ngày hôm nay của bạn như thế nào 👻
