@@ -3,6 +3,6 @@ title: Introduction
 type: docs
 ---
 
-![welcome](welcome.png "welcome")
+![welcome](resources/welcome.png "welcome")
 
 # Welcome

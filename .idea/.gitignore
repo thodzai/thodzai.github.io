@@ -6,8 +6,3 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
-# Custom ignored files
-/misc.xml
-/modules.xml
-/thodzai.github.io.iml
-/vcs.xml
