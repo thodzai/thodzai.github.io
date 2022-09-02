@@ -18,7 +18,7 @@ lên là đã có thể đặt giao bất cứ thứ gì tới tận cửa. Nh�
 ngành quảng cáo ngày càng xâm nhập vào cuộc sống của chúng ta một cách âm thầm và thúc đẩy nhu cầu tiêu thụ của chúng ta
 mà chúng ta không hề để ý.
 
-Thời đại này còn được gọi là thời đại tiêu dùng, chúng ta đang sống trong xã hội tiêu dùng, lúc nào chúng ta cũng nghe
+Thời đại này còn được gọi là thời đại tiêu dùng, `chúng ta đang sống trong xã hội tiêu dùng`, lúc nào chúng ta cũng nghe
 thời sự nói về việc thúc đẩy tăng trưởng kinh tế mà họ không hề nói rằng sự phát triển đó đang làm kiệt quệ tài chính
 của chúng ta để làm giàu cho những người chủ nhà máy, xí nghiệp. Nền kinh tế muốn chúng ta tiêu thụ nhiều hơn để đóng
 thuế nhiều hơn, nhà máy thì muốn bán nhiều hơn và sản xuất nhiều hơn để thu lợi nhiều hơn, từ đó nghành quảng cáo càng
@@ -26,7 +26,7 @@ ngày càng tìm cách khiến chúng ta phát sinh nhu cầu mua sắm, ta thì
 đứng ở cuối mắt xích lợi ích, nhưng mua sắm là điều cần thiết và không thể né tránh.
 
 Vậy nên mua sắm làm sao để chúng ta cảm thấy hạnh phúc nhất và mang lại hiệu quả, lợi ích nhiều nhất có thể là điều
-chúng ta cần tìm hiểu và luyện tập. Lợi ích của việc mua sắm đúng cách sẽ giúp chúng ta:
+chúng ta cần tìm hiểu và luyện tập. `Lợi ích của việc mua sắm đúng cách` sẽ giúp chúng ta:
 
 * Quản lý tài chính cá nhân hiệu quả hơn
 * Tăng cường các khoản tiết kiệm và ngân sách cho các món đồ cần thiết hơn
@@ -45,7 +45,7 @@ ngày. Có những nhu cầu xuất hiện khi chúng ta muốn phục vụ cho 
 xuất hiện khi chúng ta thường xuyên xem các mẫu quảng cáo hoặc các clip trên YouTube, TikTok, v.v…, và những nhu cầu cơ
 bản hằng ngày như ăn uống. Có những nhu cầu là cần thiết (nếu không có nó chúng ta sẽ vất vả hơn rất nhiều, khó mà đạt
 được mục tiêu trong cuộc sống, …), ngoài ra là những nhu cầu mà chúng ta chỉ phát sinh nhất thời hay còn gọi là ham muốn
-nhất thời. Khi ta chưa có sự hiểu biết thấu đáo về nhu cầu cần và muốn thì hầu như chúng ta cứ mua sắm thoải mái mà
+nhất thời. Khi ta chưa có sự `hiểu biết thấu đáo về nhu cầu cần và muốn` thì hầu như chúng ta cứ mua sắm thoải mái mà
 không hề biết rằng những hành động đó đang làm tiêu hao tài chính và sức lực của chúng ta.
 
 Vậy thì có cách nào để xác định xem nhu cầu nào của chúng ta là chính đáng và xứng đáng với công sức mà chúng ta tích
