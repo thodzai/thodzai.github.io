@@ -4,3 +4,6 @@
 [submodule "themes/hugo-stack"]
 	path = themes/hugo-stack
 	url = https://github.com/thodzai/hugo-theme-stack/
+[submodule "themes/hugo-theme-stack"]
+	path = themes/hugo-theme-stack
+	url = https://github.com/CaiJimmy/hugo-theme-stack/
