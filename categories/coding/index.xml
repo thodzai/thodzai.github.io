@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Coding on ThoDZai's Blog</title><link>https://thodzai.github.io/categories/coding/</link><description>Recent content in Coding on ThoDZai's Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 20 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://thodzai.github.io/categories/coding/index.xml" rel="self" type="application/rss+xml"/><item><title>IntelliJ project không hiển thị cây thư mục</title><link>https://thodzai.github.io/p/intellij-project-not-show-hierarchy/</link><pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate><guid>https://thodzai.github.io/p/intellij-project-not-show-hierarchy/</guid><description>&lt;img src="https://thodzai.github.io/intellij-project-not-show-hierarchy-1.png" alt="Featured image of post IntelliJ project không hiển thị cây thư mục" />&lt;h1 id="intellij-project-không-hiển-thị-cây-thư-mục">IntelliJ project không hiển thị cây thư mục&lt;/h1>
+&lt;p>Trong một số trường hợp nào đó có thể IntelliJ sẽ load project lên không hiển thị được cây thư mục như hình này&lt;/p>
+&lt;p>&lt;img src="https://thodzai.github.io/intellij-project-not-show-hierarchy.png"
+loading="lazy"
+alt="intellij-project-not-show-hierarchy"
+>&lt;/p>
+&lt;h2 id="cách-xử-lý">Cách xử lý&lt;/h2>
+&lt;ul>
+&lt;li>Bước 1: Đóng tất cả project và tắt hoàn toàn ứng dụng IntelliJ&lt;/li>
+&lt;li>Bước 2: Vào thư mục của project đang lỗi hiển thị&lt;/li>
+&lt;li>Bước 3: Tìm và xóa thư mục idea hoặc .idea&lt;/li>
+&lt;li>Bước 4: Mở ứng dụng IntelliJ và mở lại project&lt;/li>
+&lt;/ul>
+&lt;p>Ta sẽ được project load lại như này&lt;/p>
+&lt;p>&lt;img src="https://thodzai.github.io/intellij-project-has-show-hierarchy.png"
+loading="lazy"
+alt="intellij-project-has-show-hierarchy"
+>&lt;/p></description></item></channel></rss>
