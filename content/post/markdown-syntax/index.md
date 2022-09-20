@@ -2,7 +2,7 @@
 title: Markdown Syntax Guide
 description:
 date: 2022-09-20
-slug: intellij-project-not-show-hierarchy
+slug: markdown-syntax
 image:
 categories:
 - Coding
