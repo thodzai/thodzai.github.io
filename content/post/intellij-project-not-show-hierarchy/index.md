@@ -3,7 +3,7 @@ title: IntelliJ project không hiển thị cây thư mục
 description: 
 date: 2022-09-20
 slug: intellij-project-not-show-hierarchy
-image: intellij-project-not-show-hierarchy-1.png
+image: 
 categories:
 - Coding
 tags:

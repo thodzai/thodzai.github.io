@@ -33,7 +33,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon:
+    favicon: img/avatar.png
 
     footer:
         since: 2022
@@ -47,7 +47,7 @@ params:
         emoji: 🍥
         subtitle: Học hỏi mỗi ngày, phát triển mỗi ngày.
         avatar:
-            enabled: true
+            enabled: false
             local: true
             src: img/avatar.png
 
