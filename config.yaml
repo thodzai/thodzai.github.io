@@ -192,6 +192,24 @@ menu:
           params:
               icon: brand-github
 
+        - identifier: instagram
+          name: Instagram
+          url: https://github.com/thodzai
+          params:
+              icon: brand-instagram
+
+        - identifier: youtube
+          name: Youtube
+          url: https://github.com/thodzai
+          params:
+              icon: brand-youtube
+
+        - identifier: facebook
+          name: Facebook
+          url: https://github.com/thodzai
+          params:
+              icon: brand-facebook
+
 related:
     includeNewer: true
     threshold: 60
