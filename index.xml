@@ -1,4 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ThoDZai's Blog</title><link>https://thodzai.github.io/</link><description>Recent content on ThoDZai's Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 20 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://thodzai.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Cách mua sắm hiệu quả và hạnh phúc nhất</title><link>https://thodzai.github.io/p/cach-mua-sam-hanh-phuc/</link><pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate><guid>https://thodzai.github.io/p/cach-mua-sam-hanh-phuc/</guid><description>&lt;h1 id="cách-mua-sắm-hiệu-quả-và-hạnh-phúc-nhất">Cách mua sắm hiệu quả và hạnh phúc nhất&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ThoDZai's Blog</title><link>https://thodzai.github.io/</link><description>Recent content on ThoDZai's Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 21 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://thodzai.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://thodzai.github.io/about/</link><pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate><guid>https://thodzai.github.io/about/</guid><description>&lt;p>&lt;img src="https://thodzai.github.io/about/welcome.png"
+width="1262"
+height="450"
+srcset="https://thodzai.github.io/about/welcome_hu80cbf872b4d5b24681f57b4fbbcff818_64147_480x0_resize_box_3.png 480w, https://thodzai.github.io/about/welcome_hu80cbf872b4d5b24681f57b4fbbcff818_64147_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="280"
+data-flex-basis="673px"
+>&lt;/p>
+&lt;h1 id="chào-bạn-">Chào bạn 👋&lt;/h1>
+&lt;h2 id="ngày-hôm-nay-của-bạn-như-thế-nào-">Ngày hôm nay của bạn như thế nào 👻&lt;/h2>
+&lt;ul>
+&lt;li>Đêm qua bạn có ngủ đủ giấc không 😴&lt;/li>
+&lt;li>Bạn có kiểm tra điện thoại khi vừa thức dậy không 📵&lt;/li>
+&lt;li>Bạn đã uống đủ 2 lít nước mỗi ngày chứ 🥤&lt;/li>
+&lt;li>Hôm nay bạn có dành 30 phút để luyện tập sức khỏe không 🏋️‍&lt;/li>
+&lt;li>Hôm nay bạn có sống trọn vẹn từng phút giây với gia đình, bản thân và công việc của mình không 🎉&lt;/li>
+&lt;/ul></description></item><item><title>Cách mua sắm hiệu quả và hạnh phúc nhất</title><link>https://thodzai.github.io/p/cach-mua-sam-hanh-phuc/</link><pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate><guid>https://thodzai.github.io/p/cach-mua-sam-hanh-phuc/</guid><description>&lt;h1 id="cách-mua-sắm-hiệu-quả-và-hạnh-phúc-nhất">Cách mua sắm hiệu quả và hạnh phúc nhất&lt;/h1>
 &lt;h2 id="giới-thiệu-và-lợi-ích">Giới thiệu và lợi ích&lt;/h2>
 &lt;p>Mua sắm trong thời đại hiện nay có lẽ đã dễ dàng và thuận tiện hơn rất nhiều, chúng ta chỉ cần mở điện thoại thông minh
 lên là đã có thể đặt giao bất cứ thứ gì tới tận cửa. Nhờ áp dụng công nghệ thông tin, nghành thương mại điện tử đã cùng
@@ -356,26 +373,7 @@ alt="Google"
 >talk&lt;/a> during Gopherfest, November 18, 2015.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
-&lt;/div></description></item><item><title>Archives</title><link>https://thodzai.github.io/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>https://thodzai.github.io/archives/</guid><description/></item><item><title>About</title><link>https://thodzai.github.io/about/</link><pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate><guid>https://thodzai.github.io/about/</guid><description>&lt;p>Written in Go, Hugo is an open source static site generator available under the &lt;a class="link" href="https://github.com/gohugoio/hugo/blob/master/LICENSE" target="_blank" rel="noopener"
->Apache Licence 2.0.&lt;/a> Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p>
-&lt;p>Hugo makes use of a variety of open source projects including:&lt;/p>
-&lt;ul>
-&lt;li>&lt;a class="link" href="https://github.com/yuin/goldmark" target="_blank" rel="noopener"
->https://github.com/yuin/goldmark&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="https://github.com/alecthomas/chroma" target="_blank" rel="noopener"
->https://github.com/alecthomas/chroma&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="https://github.com/muesli/smartcrop" target="_blank" rel="noopener"
->https://github.com/muesli/smartcrop&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="https://github.com/spf13/cobra" target="_blank" rel="noopener"
->https://github.com/spf13/cobra&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="https://github.com/spf13/viper" target="_blank" rel="noopener"
->https://github.com/spf13/viper&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p>
-&lt;p>Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.&lt;/p>
-&lt;p>Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.&lt;/p>
-&lt;p>Learn more and contribute on &lt;a class="link" href="https://github.com/gohugoio" target="_blank" rel="noopener"
->GitHub&lt;/a>.&lt;/p></description></item><item><title>Links</title><link>https://thodzai.github.io/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thodzai.github.io/links/</guid><description>&lt;p>To use this feature, add &lt;code>links&lt;/code> section to frontmatter.&lt;/p>
+&lt;/div></description></item><item><title>Archives</title><link>https://thodzai.github.io/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>https://thodzai.github.io/archives/</guid><description/></item><item><title>Links</title><link>https://thodzai.github.io/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thodzai.github.io/links/</guid><description>&lt;p>To use this feature, add &lt;code>links&lt;/code> section to frontmatter.&lt;/p>
 &lt;p>This page&amp;rsquo;s frontmatter:&lt;/p>
 &lt;div class="highlight">&lt;div class="chroma">
 &lt;table class="lntable">&lt;tr>&lt;td class="lntd">
