@@ -4,5 +4,5 @@ menu:
         name: News post
         weight: -100
         params:
-            icon: download
+            icon: browser
 ---
