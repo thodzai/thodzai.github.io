@@ -2,7 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/themes/hugo-book" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/themes/hugo-stack" vcs="Git" />
   </component>
 </project>
