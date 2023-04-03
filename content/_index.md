@@ -1,8 +1,8 @@
 ---
 menu:
     main:
-        name: Post
+        name: News post
         weight: -100
         params:
-            icon: browser
+            icon: download
 ---
