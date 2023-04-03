@@ -29,3 +29,5 @@ gồm thời gian ngủ, tỷ lệ giấc ngủ sâu, giấc ngủ nhẹ, hay gi
 
 Trên đây là những tính năng chính của tính năng Sleep trên iOS và Apple Watch. Nếu bạn chưa sử dụng tính năng này, hãy
 thử tải về và sử dụng để giúp quản lý giấc ngủ tốt hơn và tạo ra một thói quen ngủ đều đặn hơn.
+
+-- To be continue --
