@@ -37,7 +37,7 @@ params:
 
     footer:
         since: 2022
-        customText:
+        customText: Học hỏi mỗi ngày, phát triển mỗi ngày.
 
     dateFormat:
         published: Jan 02, 2006
