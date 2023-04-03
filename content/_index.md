@@ -4,5 +4,5 @@ menu:
         name: Post
         weight: -100
         params:
-            icon: post
+            icon: home
 ---
