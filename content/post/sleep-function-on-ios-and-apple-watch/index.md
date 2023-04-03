@@ -10,8 +10,6 @@ tags:
   - Sleep
 ---
 
-# Tính năng Sleep trên iOS và Apple Watch: Giúp bạn có giấc ngủ chất lượng hơn
-
 Tính năng Sleep trên hệ điều hành iOS và Apple Watch là một tính năng giúp bạn quản lý giấc ngủ
 hiệu quả hơn. Tính năng này cho phép bạn thiết lập thời gian đi ngủ và thức dậy hàng ngày, cung cấp cho bạn thông tin về
 chất lượng giấc ngủ, đồng thời giúp bạn tạo ra một thói quen ngủ đều đặn và tốt hơn.
