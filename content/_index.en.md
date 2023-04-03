@@ -5,4 +5,6 @@ type: docs
 
 ![welcome](resources/welcome.png "welcome")
 
-# Welcome
+# Welcome 👋
+
+## How are you today 👻
