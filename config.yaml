@@ -1,6 +1,6 @@
 baseurl: https://thodzai.github.io
 languageCode: en-us
-theme: hugo-stack
+theme: hugo-theme-stack
 paginate: 5
 title: ThoDZai's Blog
 
