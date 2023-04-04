@@ -44,6 +44,7 @@ Các bước thiết lập tính năng Sleep trên Apple Watch:
 - Mở ứng dụng Sleep trên đồng hồ Apple Watch, thiết lập thời gian ngủ mục tiêu, tủy chỉnh lịch trình ngủ từng ngày hoặc cả tuần.
 
 ![](https://help.apple.com/assets/6398A9D9257A2C1D9026967A/6398A9DD257A2C1D9026968B/en_US/efc369d22a26cd705a26c952bc2cdc68.png)
+{{< figure src="https://help.apple.com/assets/6398A9D9257A2C1D9026967A/6398A9DD257A2C1D9026968B/en_US/efc369d22a26cd705a26c952bc2cdc68.png" alt="Image description" caption="Caption for the image" width="221" height="249" >}}
 
 - Thiết lập báo thức và mức độ chuông hoặc rung khi báo thức.
 - Thiết lập Sleep Screen trong cài đặt Sleep để không làm phiền và sáng màn hình khi di chuyển tay.
