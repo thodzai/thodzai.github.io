@@ -1,5 +1,5 @@
 ---
-title: Tính năng Sleep ![sleep-app.png](sleep-app.png) trên iOS và Apple Watch":" Giúp bạn có giấc ngủ chất lượng hơn
+title: Tính năng Sleep <img src="sleep-app.png" alt= “” width="24" height="24"> trên iOS và Apple Watch":" Giúp bạn có giấc ngủ chất lượng hơn
 description: Sleep function on iOS and Apple Watch
 date: 2023-04-03
 slug: Sleep-function-on-iOS-and-Apple-Watch
@@ -13,7 +13,7 @@ tags:
   - iOS
 ---
 
-![sleep-app.png](sleep-app.png)
+![](sleep-app.png)
 
 Tính năng Sleep/Theo dõi giấc ngủ trên hệ điều hành iOS và Apple Watch là một tính năng giúp bạn quản lý giấc ngủ
 hiệu quả hơn. Tính năng này cho phép bạn thiết lập thời gian đi ngủ và thức dậy hàng ngày, cung cấp cho bạn thông tin về
