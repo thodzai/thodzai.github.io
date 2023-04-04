@@ -158,8 +158,6 @@ Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and ot
 
 ## Image
 
-<img src="simple.png" alt= “simple.png” width="24" height="24">
-
 ![](simple.png)
 
 ## Hyperlinked image

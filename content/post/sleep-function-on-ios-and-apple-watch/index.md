@@ -1,5 +1,5 @@
 ---
-title: Tính năng Sleep <img src="sleep-app.png" alt= “” width="24" height="24"> trên iOS và Apple Watch":" Giúp bạn có giấc ngủ chất lượng hơn
+title: Tính năng Sleep trên iOS và Apple Watch":" Giúp bạn có giấc ngủ chất lượng hơn
 description: Sleep function on iOS and Apple Watch
 date: 2023-04-03
 slug: Sleep-function-on-iOS-and-Apple-Watch
