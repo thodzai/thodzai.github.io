@@ -51,10 +51,10 @@ The blockquote element represents content that is quoted from another source, op
 
 Tables aren't part of the core Markdown spec, but Hugo supports supports them out-of-the-box.
 
-   Name | Age
---------|------
-    Bob | 27
-  Alice | 23
+| Name  | Age |
+|-------|-----|
+| Bob   | 27  |
+| Alice | 23  |
 
 #### Inline Markdown within tables
 
@@ -155,6 +155,12 @@ X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
 Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the session.
 
 Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
+
+## Image
+
+<img src="simple.png" alt= “simple.png” width="24" height="24">
+
+![simple.png](simple.png)
 
 ## Hyperlinked image
 
