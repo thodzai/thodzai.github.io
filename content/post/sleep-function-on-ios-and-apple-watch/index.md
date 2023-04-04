@@ -44,12 +44,12 @@ Các bước thiết lập tính năng Sleep trên Apple Watch:
 
 - Mở ứng dụng Sleep trên đồng hồ Apple Watch, thiết lập thời gian ngủ mục tiêu, tủy chỉnh lịch trình ngủ từng ngày hoặc cả tuần.
 
-{{< figure src="https://help.apple.com/assets/6398A9D9257A2C1D9026967A/6398A9DD257A2C1D9026968B/en_US/efc369d22a26cd705a26c952bc2cdc68.png" alt="Image description" caption="Caption for the image" width="221" height="249" >}}
+{{< figure src="https://help.apple.com/assets/6398A9D9257A2C1D9026967A/6398A9DD257A2C1D9026968B/en_US/efc369d22a26cd705a26c952bc2cdc68.png" alt="Sleep Schedule" caption="Sleep Schedule" width="221" height="249" >}}
 
 - Thiết lập báo thức và mức độ chuông hoặc rung khi báo thức.
 - Thiết lập Sleep Screen trong cài đặt Sleep để không làm phiền và sáng màn hình khi di chuyển tay.
 - Theo dõi lịch sử giấc ngủ bằng cách mở ứng dụng Sleep trên Apple Watch, kéo xuống dưới cùng.
 
-{{< figure src="https://help.apple.com/assets/6398A9D9257A2C1D9026967A/6398A9DD257A2C1D9026968B/en_US/42775094e3315758a338f97fc6fc75b0.png" alt="Image description" caption="Caption for the image" width="221" height="249" >}}
+{{< figure src="https://help.apple.com/assets/6398A9D9257A2C1D9026967A/6398A9DD257A2C1D9026968B/en_US/42775094e3315758a338f97fc6fc75b0.png" alt="Sleep History" caption="Sleep History" width="221" height="249" >}}
 
 - Theo dõi cường độ hơi thở khi ngủ bằng ứng dụng Sleep trên iOS.
