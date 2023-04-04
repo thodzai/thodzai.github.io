@@ -45,7 +45,13 @@ ngủ đều đặn hơn.&lt;/p>
 &lt;/ul>
 &lt;p>&lt;img src="https://help.apple.com/assets/6398A9D9257A2C1D9026967A/6398A9DD257A2C1D9026968B/en_US/efc369d22a26cd705a26c952bc2cdc68.png"
 loading="lazy"
->&lt;/p>
+>
+&lt;figure>&lt;img src="https://help.apple.com/assets/6398A9D9257A2C1D9026967A/6398A9DD257A2C1D9026968B/en_US/efc369d22a26cd705a26c952bc2cdc68.png"
+alt="Image description" width="221" height="249"/>&lt;figcaption>
+&lt;p>Caption for the image&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/p>
 &lt;ul>
 &lt;li>Thiết lập báo thức và mức độ chuông hoặc rung khi báo thức.&lt;/li>
 &lt;li>Thiết lập Sleep Screen trong cài đặt Sleep để không làm phiền và sáng màn hình khi di chuyển tay.&lt;/li>
