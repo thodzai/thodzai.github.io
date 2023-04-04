@@ -37,8 +37,8 @@ ngủ đều đặn hơn.&lt;/p>
 &lt;li>Mở ứng dụng Sleep trên đồng hồ Apple Watch, thiết lập thời gian ngủ mục tiêu, tủy chỉnh lịch trình ngủ từng ngày hoặc cả tuần.&lt;/li>
 &lt;/ul>
 &lt;figure>&lt;img src="https://help.apple.com/assets/6398A9D9257A2C1D9026967A/6398A9DD257A2C1D9026968B/en_US/efc369d22a26cd705a26c952bc2cdc68.png"
-alt="Image description" width="221" height="249"/>&lt;figcaption>
-&lt;p>Caption for the image&lt;/p>
+alt="Sleep Schedule" width="221" height="249"/>&lt;figcaption>
+&lt;p>Sleep Schedule&lt;/p>
 &lt;/figcaption>
 &lt;/figure>
 &lt;ul>
@@ -47,8 +47,8 @@ alt="Image description" width="221" height="249"/>&lt;figcaption>
 &lt;li>Theo dõi lịch sử giấc ngủ bằng cách mở ứng dụng Sleep trên Apple Watch, kéo xuống dưới cùng.&lt;/li>
 &lt;/ul>
 &lt;figure>&lt;img src="https://help.apple.com/assets/6398A9D9257A2C1D9026967A/6398A9DD257A2C1D9026968B/en_US/42775094e3315758a338f97fc6fc75b0.png"
-alt="Image description" width="221" height="249"/>&lt;figcaption>
-&lt;p>Caption for the image&lt;/p>
+alt="Sleep History" width="221" height="249"/>&lt;figcaption>
+&lt;p>Sleep History&lt;/p>
 &lt;/figcaption>
 &lt;/figure>
 &lt;ul>
@@ -420,13 +420,12 @@ alt="Image description" width="20" height="20"/>&lt;figcaption>
 &lt;p>Caption for the image&lt;/p>
 &lt;/figcaption>
 &lt;/figure>
-&lt;!-- raw HTML omitted -->
-&lt;!-- raw HTML omitted -->
 &lt;p>&lt;img src="https://thodzai.github.io/p/markdown-syntax/simple.png"
 width="60"
 height="60"
 srcset="https://thodzai.github.io/p/markdown-syntax/simple_hu715b84df4fdc5dcbcc7709e0dc0df69f_4901_480x0_resize_box_3.png 480w, https://thodzai.github.io/p/markdown-syntax/simple_hu715b84df4fdc5dcbcc7709e0dc0df69f_4901_1024x0_resize_box_3.png 1024w"
 loading="lazy"
+alt="Caption for the image"
 class="gallery-image"
 data-flex-grow="100"
 data-flex-basis="240px"
