@@ -1,12 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>iOS on ThoDZai's Blog</title><link>https://thodzai.github.io/tags/ios/</link><description>Recent content in iOS on ThoDZai's Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 03 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://thodzai.github.io/tags/ios/index.xml" rel="self" type="application/rss+xml"/><item><title>Tính năng Sleep trên iOS và Apple Watch":" Giúp bạn có giấc ngủ chất lượng hơn</title><link>https://thodzai.github.io/p/sleep-function-on-ios-and-apple-watch/</link><pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate><guid>https://thodzai.github.io/p/sleep-function-on-ios-and-apple-watch/</guid><description>&lt;p>&lt;img src="https://thodzai.github.io/p/sleep-function-on-ios-and-apple-watch/sleep-app.png"
-width="60"
-height="60"
-srcset="https://thodzai.github.io/p/sleep-function-on-ios-and-apple-watch/sleep-app_hu715b84df4fdc5dcbcc7709e0dc0df69f_4901_480x0_resize_box_3.png 480w, https://thodzai.github.io/p/sleep-function-on-ios-and-apple-watch/sleep-app_hu715b84df4fdc5dcbcc7709e0dc0df69f_4901_1024x0_resize_box_3.png 1024w"
-loading="lazy"
-class="gallery-image"
-data-flex-grow="100"
-data-flex-basis="240px"
->&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>iOS on ThoDZai's Blog</title><link>https://thodzai.github.io/tags/ios/</link><description>Recent content in iOS on ThoDZai's Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 03 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://thodzai.github.io/tags/ios/index.xml" rel="self" type="application/rss+xml"/><item><title>Tính năng Sleep trên iOS và Apple Watch":" Giúp bạn có giấc ngủ chất lượng hơn</title><link>https://thodzai.github.io/p/sleep-function-on-ios-and-apple-watch/</link><pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate><guid>https://thodzai.github.io/p/sleep-function-on-ios-and-apple-watch/</guid><description>&lt;figure>&lt;img src="sleep-app.png" width="20" height="20"/>
+&lt;/figure>
 &lt;p>Tính năng Sleep/Theo dõi giấc ngủ trên hệ điều hành iOS và Apple Watch là một tính năng giúp bạn quản lý giấc ngủ
 hiệu quả hơn. Tính năng này cho phép bạn thiết lập thời gian đi ngủ và thức dậy hàng ngày, cung cấp cho bạn thông tin về
 chất lượng giấc ngủ, đồng thời giúp bạn tạo ra một thói quen ngủ đều đặn và tốt hơn.&lt;/p>
@@ -36,23 +29,21 @@ ngủ đều đặn hơn.&lt;/p>
 &lt;ul>
 &lt;li>Mở ứng dụng Sleep trên đồng hồ Apple Watch, thiết lập thời gian ngủ mục tiêu, tủy chỉnh lịch trình ngủ từng ngày hoặc cả tuần.&lt;/li>
 &lt;/ul>
-&lt;p>&lt;img src="https://help.apple.com/assets/6398A9D9257A2C1D9026967A/6398A9DD257A2C1D9026968B/en_US/efc369d22a26cd705a26c952bc2cdc68.png"
-loading="lazy"
->
 &lt;figure>&lt;img src="https://help.apple.com/assets/6398A9D9257A2C1D9026967A/6398A9DD257A2C1D9026968B/en_US/efc369d22a26cd705a26c952bc2cdc68.png"
 alt="Image description" width="221" height="249"/>&lt;figcaption>
 &lt;p>Caption for the image&lt;/p>
 &lt;/figcaption>
 &lt;/figure>
-&lt;/p>
 &lt;ul>
 &lt;li>Thiết lập báo thức và mức độ chuông hoặc rung khi báo thức.&lt;/li>
 &lt;li>Thiết lập Sleep Screen trong cài đặt Sleep để không làm phiền và sáng màn hình khi di chuyển tay.&lt;/li>
 &lt;li>Theo dõi lịch sử giấc ngủ bằng cách mở ứng dụng Sleep trên Apple Watch, kéo xuống dưới cùng.&lt;/li>
 &lt;/ul>
-&lt;p>&lt;img src="https://help.apple.com/assets/6398A9D9257A2C1D9026967A/6398A9DD257A2C1D9026968B/en_US/42775094e3315758a338f97fc6fc75b0.png"
-loading="lazy"
->&lt;/p>
+&lt;figure>&lt;img src="https://help.apple.com/assets/6398A9D9257A2C1D9026967A/6398A9DD257A2C1D9026968B/en_US/42775094e3315758a338f97fc6fc75b0.png"
+alt="Image description" width="221" height="249"/>&lt;figcaption>
+&lt;p>Caption for the image&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
 &lt;ul>
 &lt;li>Theo dõi cường độ hơi thở khi ngủ bằng ứng dụng Sleep trên iOS.&lt;/li>
 &lt;/ul></description></item></channel></rss>

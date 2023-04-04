@@ -201,6 +201,13 @@
 &lt;p>Press &lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->CTRL&lt;!-- raw HTML omitted -->+&lt;!-- raw HTML omitted -->ALT&lt;!-- raw HTML omitted -->+&lt;!-- raw HTML omitted -->Delete&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted --> to end the session.&lt;/p>
 &lt;p>Most &lt;!-- raw HTML omitted -->salamanders&lt;!-- raw HTML omitted --> are nocturnal, and hunt for insects, worms, and other small creatures.&lt;/p>
 &lt;h2 id="image">Image&lt;/h2>
+&lt;figure>&lt;img src="simple.png"
+alt="Image description" width="20" height="20"/>&lt;figcaption>
+&lt;p>Caption for the image&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
 &lt;p>&lt;img src="https://thodzai.github.io/p/markdown-syntax/simple.png"
 width="60"
 height="60"
