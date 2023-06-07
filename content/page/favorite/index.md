@@ -9,10 +9,14 @@ menu:
       icon: favorite-s
 ---
 
-## Ứng dụng tôi yêu thích
+## Ứng dụng yêu thích
 
 - Notion
 
-## Thết bị yêu thích của tôi
+## Thết bị yêu thích
 
 - Apple Watch SE 2022
+
+## Sách yêu thích
+
+- Tìm lại chính mình - Thích Thánh Nghiêm
