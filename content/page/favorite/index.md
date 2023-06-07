@@ -6,7 +6,7 @@ menu:
   main:
     weight: -80
     params:
-      icon: award-favorite-rating-star
+      icon: favorite-s
 ---
 
 ## Ứng dụng tôi yêu thích

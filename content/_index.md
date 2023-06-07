@@ -1,8 +1,8 @@
 ---
 menu:
     main:
-        name: News post
+        name: Blog
         weight: -100
         params:
-            icon: news-broadcast
+            icon: home
 ---
