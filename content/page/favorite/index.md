@@ -19,4 +19,4 @@ menu:
 
 ## Sách yêu thích
 
-- Tìm lại chính mình - Thích Thánh Nghiêm
+- Tìm lại chính mình - Thích Thánh Nghiêm.
