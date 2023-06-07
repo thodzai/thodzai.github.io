@@ -10,3 +10,4 @@ tags:
 
 - Create new icon for the theme: https://tablericons.com/
 - Markdown Syntax Guide: [here](..%2Fmarkdown-syntax%2Findex.md)
+- 
