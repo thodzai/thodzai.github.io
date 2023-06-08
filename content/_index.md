@@ -4,5 +4,5 @@ menu:
         name: Blog
         weight: -100
         params:
-            icon: blog
+            icon: article
 ---
