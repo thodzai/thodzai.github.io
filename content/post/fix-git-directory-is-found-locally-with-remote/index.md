@@ -1,29 +1,37 @@
 ---
-title: Không thể thêm git submodule do thư mục đã tồn tại 
-description: 
+title: Cách fix không thể thêm git submodule do thư mục đã tồn tại hoặc trùng tên
+description:
 date: 2022-09-20
 slug: fix-git-directory-is-found-locally-with-remote
-image: 
+image:
 categories:
-- Coding
+  - Git
 tags:
-- Git
-- Submodule
+  - Submodule
 ---
-# A git directory for project_name is found locally with remote(s)
 
-Lỗi này xuất hiện khi chúng ta muốn add git submodule nhưng do chưa xóa hết thư mục đã khai báo với git local trước đó. Lỗi sẽ trong như thế này:
+**A git directory for 'submodule_name' is found locally with remote(s)**
 
-![](git-submodule.png)
+Lỗi này xuất hiện vì thư mục trùng tên đã khai báo với git local trước đó.
+
+```
+fatal: A git directory for 'submodule_name' is found locally with remote(s):
+use the '--force' option. If the local git directory is not the correct repo
+or you are unsure what this means choose another name with the '--name' option.
+```
 
 ## Cách xử lý
 
-remove the folder of the submodule.
-remove from .gitmodules
-rm -rf .git/modules/myproject
-retry the above steps to add it again
+### English
 
-* Bước 1: Xóa thư mục submodule
-* Bước 2: Xóa khai báo trong .gitmodules
-* Bước 3: Tìm và xóa thư mục submodule trong `.git/modules/` hoặc chạy lệnh `rm -rf .git/modules/submodule_name`
-* Bước 4: Chạy lại lệnh add git submodule
+* remove the submodule folder
+* remove declaration in .gitmodules
+* clone the git submodule
+* re-add the git submodule
+
+### Vietnamese
+
+* xóa thư mục submodule
+* xóa khai báo trong .gitmodules
+* clone lại git submodule
+* chạy lại lệnh add git submodule
