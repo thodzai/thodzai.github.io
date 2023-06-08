@@ -9,14 +9,15 @@ menu:
       icon: heart
 ---
 
-## Ứng dụng yêu thích
+### Ứng dụng yêu thích
 
 - Notion
 
-## Thết bị yêu thích
+### Thết bị yêu thích
 
 - Apple Watch SE 2022
 
-## Sách yêu thích
+### Sách yêu thích
 
-- Tìm lại chính mình - Thích Thánh Nghiêm
+- Tìm lại chính mình - HT. Thích Thánh Nghiêm
+- Tứ diệu đế - Dalai Lama XIV
