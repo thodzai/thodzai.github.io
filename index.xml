@@ -74,6 +74,34 @@ data-flex-basis="673px"
 &lt;li>Bạn đã uống đủ 2 lít nước mỗi ngày chứ 🥤&lt;/li>
 &lt;li>Hôm nay bạn có dành 30 phút để luyện tập sức khỏe không 🏋️‍&lt;/li>
 &lt;li>Hôm nay bạn có sống trọn vẹn từng phút giây với gia đình, bản thân và công việc của mình không 🎉&lt;/li>
+&lt;/ul></description></item><item><title>Cách fix không thể thêm git submodule do thư mục đã tồn tại hoặc trùng tên</title><link>https://thodzai.github.io/p/fix-git-directory-is-found-locally-with-remote/</link><pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate><guid>https://thodzai.github.io/p/fix-git-directory-is-found-locally-with-remote/</guid><description>&lt;p>&lt;strong>A git directory for &amp;lsquo;submodule_name&amp;rsquo; is found locally with remote(s)&lt;/strong>&lt;/p>
+&lt;p>Lỗi này xuất hiện vì thư mục trùng tên đã khai báo với git local trước đó.&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">fatal: A git directory for &amp;#39;submodule_name&amp;#39; is found locally with remote(s):
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">use the &amp;#39;--force&amp;#39; option. If the local git directory is not the correct repo
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">or you are unsure what this means choose another name with the &amp;#39;--name&amp;#39; option.
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="cách-xử-lý">Cách xử lý&lt;/h2>
+&lt;h3 id="english">English&lt;/h3>
+&lt;ul>
+&lt;li>remove the submodule folder&lt;/li>
+&lt;li>remove declaration in .gitmodules&lt;/li>
+&lt;li>clone the git submodule&lt;/li>
+&lt;li>re-add the git submodule&lt;/li>
+&lt;/ul>
+&lt;h3 id="vietnamese">Vietnamese&lt;/h3>
+&lt;ul>
+&lt;li>xóa thư mục submodule&lt;/li>
+&lt;li>xóa khai báo trong .gitmodules&lt;/li>
+&lt;li>clone lại git submodule&lt;/li>
+&lt;li>chạy lại lệnh add git submodule&lt;/li>
 &lt;/ul></description></item><item><title>Cách mua sắm hiệu quả và hạnh phúc nhất</title><link>https://thodzai.github.io/p/cach-mua-sam-hanh-phuc/</link><pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate><guid>https://thodzai.github.io/p/cach-mua-sam-hanh-phuc/</guid><description>&lt;h1 id="cách-mua-sắm-hiệu-quả-và-hạnh-phúc-nhất">Cách mua sắm hiệu quả và hạnh phúc nhất&lt;/h1>
 &lt;h2 id="giới-thiệu-và-lợi-ích">Giới thiệu và lợi ích&lt;/h2>
 &lt;p>Mua sắm trong thời đại hiện nay có lẽ đã dễ dàng và thuận tiện hơn rất nhiều, chúng ta chỉ cần mở điện thoại thông minh
@@ -195,28 +223,7 @@ alt="intellij-project-has-show-hierarchy"
 class="gallery-image"
 data-flex-grow="183"
 data-flex-basis="439px"
->&lt;/p></description></item><item><title>Không thể thêm git submodule do thư mục đã tồn tại</title><link>https://thodzai.github.io/p/fix-git-directory-is-found-locally-with-remote/</link><pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate><guid>https://thodzai.github.io/p/fix-git-directory-is-found-locally-with-remote/</guid><description>&lt;h1 id="a-git-directory-for-project_name-is-found-locally-with-remotes">A git directory for project_name is found locally with remote(s)&lt;/h1>
-&lt;p>Lỗi này xuất hiện khi chúng ta muốn add git submodule nhưng do chưa xóa hết thư mục đã khai báo với git local trước đó. Lỗi sẽ trong như thế này:&lt;/p>
-&lt;p>&lt;img src="https://thodzai.github.io/p/fix-git-directory-is-found-locally-with-remote/git-submodule.png"
-width="859"
-height="465"
-srcset="https://thodzai.github.io/p/fix-git-directory-is-found-locally-with-remote/git-submodule_hu909031ff2867de5970019a2725a61a3f_55982_480x0_resize_box_3.png 480w, https://thodzai.github.io/p/fix-git-directory-is-found-locally-with-remote/git-submodule_hu909031ff2867de5970019a2725a61a3f_55982_1024x0_resize_box_3.png 1024w"
-loading="lazy"
-class="gallery-image"
-data-flex-grow="184"
-data-flex-basis="443px"
->&lt;/p>
-&lt;h2 id="cách-xử-lý">Cách xử lý&lt;/h2>
-&lt;p>remove the folder of the submodule.
-remove from .gitmodules
-rm -rf .git/modules/myproject
-retry the above steps to add it again&lt;/p>
-&lt;ul>
-&lt;li>Bước 1: Xóa thư mục submodule&lt;/li>
-&lt;li>Bước 2: Xóa khai báo trong .gitmodules&lt;/li>
-&lt;li>Bước 3: Tìm và xóa thư mục submodule trong &lt;code>.git/modules/&lt;/code> hoặc chạy lệnh &lt;code>rm -rf .git/modules/submodule_name&lt;/code>&lt;/li>
-&lt;li>Bước 4: Chạy lại lệnh add git submodule&lt;/li>
-&lt;/ul></description></item><item><title>Markdown Syntax Guide</title><link>https://thodzai.github.io/p/markdown-syntax/</link><pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate><guid>https://thodzai.github.io/p/markdown-syntax/</guid><description>&lt;p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p>
+>&lt;/p></description></item><item><title>Markdown Syntax Guide</title><link>https://thodzai.github.io/p/markdown-syntax/</link><pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate><guid>https://thodzai.github.io/p/markdown-syntax/</guid><description>&lt;p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p>
 &lt;h2 id="headings">Headings&lt;/h2>
 &lt;p>The following HTML &lt;code>&amp;lt;h1&amp;gt;&lt;/code>—&lt;code>&amp;lt;h6&amp;gt;&lt;/code> elements represent six levels of section headings. &lt;code>&amp;lt;h1&amp;gt;&lt;/code> is the highest section level while &lt;code>&amp;lt;h6&amp;gt;&lt;/code> is the lowest.&lt;/p>
 &lt;h1 id="h1">H1&lt;/h1>
