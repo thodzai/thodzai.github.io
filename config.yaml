@@ -44,7 +44,7 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 🍥
+        emoji: ☸
         subtitle: Học hỏi mỗi ngày, phát triển mỗi ngày.
         avatar:
             enabled: true
@@ -56,7 +56,7 @@ params:
         toc: true
         readingTime: true
         license:
-            enabled: false
+            enabled: true
             default: Licensed under CC BY-NC-SA 4.0
 
     comments:
