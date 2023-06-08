@@ -16,6 +16,7 @@ menu:
 ### Thết bị yêu thích
 
 - Apple Watch SE 2022
+- Macbook Pro M1 Pro 2021
 
 ### Sách yêu thích
 
